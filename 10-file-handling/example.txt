@@ -1,0 +1,3 @@
+This is new content written using 'with' statement.
+This is appended content using 'with' statement.
+This is read/write mode using 'with' statement.
